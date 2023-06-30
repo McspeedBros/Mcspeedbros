@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Running-Lights**
 
-- 🌱 I’m currently learning **Applied Computer Science**
+- 🌱 I’m currently studying **Applied Computer Science**
 
 - 💬 Ask me about **Programming, Electronics,**
 
